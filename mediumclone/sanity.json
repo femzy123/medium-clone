@@ -1,7 +1,6 @@
 {
   "root": true,
-  "project": {
-    "name": "medium-clone"
+     "name": "medium-clone"
   },
   "api": {
     "projectId": "dhusfuwg",
